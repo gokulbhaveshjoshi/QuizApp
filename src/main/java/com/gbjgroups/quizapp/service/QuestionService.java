@@ -8,7 +8,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.gbjgroups.quizapp.Question;
+import com.gbjgroups.quizapp.model.Question;
 import com.gbjgroups.quizapp.dao.QuestionDao;
 
 @Service
